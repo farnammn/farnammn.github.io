@@ -34,18 +34,6 @@ on this same page.
 
 ## Photo — externally hosted, not bundled
 
-The photograph is the image in the About section of your original website:
-
-https://13148888a.site123.me/
-
-The image currently referenced by `index.html` is:
-
-https://images.cdn-files-a.com/uploads/1314895/400_5b55ca824bddf.jpg
-
-It appears beside the About text on wider screens and above the text on narrow
-screens. It is an existing photograph, not a generated portrait. CSS crops the
-image for display; it does not modify the original file.
-
 **The photo is loaded from that external host, not stored in this ZIP.** Its URL
 was verified using the browsing tool, but the working environment could not
 download the image bytes. Consequently the offline screenshots show the explicit
