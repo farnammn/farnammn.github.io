@@ -63,6 +63,8 @@ main { margin-top: 27px; }
 .paper-refs { display: flex; align-items: baseline; flex-wrap: wrap; gap: 3px 10px; font-size: 14.5px; }
 .paper-refs .label { color: var(--muted); margin-right: 1px; }
 .paper-refs a { white-space: nowrap; }
+.paper-refs.paper-refs-inline { display: block; }
+.paper-refs .ongoing-note { color: var(--muted); }
 .all-publications { margin-top: 34px; padding-top: 27px; border-top: 1px solid var(--rule); }
 .bibliography-nav { font-size: 14px; margin: -9px 0 23px; color: var(--muted); }
 .bibliography-nav span { margin: 0 8px; color: #91989d; }
